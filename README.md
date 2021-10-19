@@ -1,6 +1,7 @@
 # Aprobación de la Gestión de Pedro Castillo por NSE
 Visualización del informe de Estudio de Opinión El Comercio - IPSOS, seccion Evaluación Presidencial
 
+![alt text](https://github.com/anamumaq/aprobacion_castillo/blob/main/aprobacion%20pedro%20castillo%20ct%2021.png)
 
 Actualizado con informes hasta Octubre 2021
 
